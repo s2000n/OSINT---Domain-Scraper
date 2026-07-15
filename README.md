@@ -12,7 +12,7 @@ An advanced, multi-threaded GUI tool designed for Security Researchers, Threat I
     * Toggle HTTP / HTTPS.
     * Target Public Web or Onion Networks (.onion).
     * Validate live hosts only (Saves only domains returning `HTTP 200 OK`).
-* **🚫 Real-Time Auto-Saving Blacklist:** Easily exclude noisy or irrelevant domains (like social media networks or content distribution channels) using the in-app blacklist editor. Changes automatically write back to `block_list.txt`.
+* **🚫 Real-Time Auto-Saving Blacklist:** Easily exclude noisy or irrelevant domains (like social media networks or content distribution channels) using the in-app blacklist editor. Changes automatically write back to `black_list.txt`.
 * **📂 Dynamic Output Organization:** Outputs are cleanly separated into unique text files categorized by the specific scope keyword and stamped with the exact scan date: `[scope]_[YYYY-MM-DD].txt`.
 * **⚡ Multi-Threaded Performance:** Performs domain extraction and live host validation concurrently, ensuring the UI remains smooth, fully responsive, and fast.
 
