@@ -6,7 +6,7 @@ An advanced, multi-threaded GUI tool designed for Security Researchers, Threat I
 
 ## 💡 Features
 
-* **⚙️ 142 Built-in Customizable Sources:** Comes pre-loaded with 142 trusted open-source OSINT intelligence feeds. You can dynamically add or delete URLs directly through `sources.txt` to tailor scans to your project's scope.
+* **⚙️ 138 Built-in Customizable Sources:** Comes pre-loaded with 142 trusted open-source OSINT intelligence feeds. You can dynamically add or delete URLs directly through `sources.txt` to tailor scans to your project's scope.
 * **🔍 Multi-Scope Scanning:** Scan for multiple keywords/target brands simultaneously by simply separating them with a comma (e.g., `google, target, admin`).
 * **☑️ Advanced Protocol & Network Filtering:**
     * Toggle HTTP / HTTPS.
