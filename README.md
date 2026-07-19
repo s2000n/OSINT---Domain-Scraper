@@ -24,3 +24,9 @@ Buy a license: https://salla.sa/abdulsalam-alnuwaysir-dev/osint-domain-scraper/p
 <p align="center">
   <img src="img/1.png" alt="OSINT - Domain Scraper UI" width="750">
 </p>
+<p align="center">
+  <img src="img/2.png" alt="OSINT - Domain Scraper UI" width="750">
+</p>
+<p align="center">
+  <img src="img/3.png" alt="OSINT - Domain Scraper UI" width="750">
+</p>
