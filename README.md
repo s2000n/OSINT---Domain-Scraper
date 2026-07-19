@@ -2,7 +2,7 @@
 
 An advanced, multi-threaded GUI tool designed for Security Researchers, Threat Intelligence Analysts, and Bug Bounty Hunters to automate the reconnaissance phase by gathering, filtering, and validating target domains from multiple open-source feeds.
 
-Buy a license: https://salla.sa/abdulsalam-alnuwaysir-dev/osint-domain-scraper/p703067597
+Buy a license: https://salla.sa/abdulsalam-alnuwaysir-dev/osint-domain-scraper/p1716034324
 
 ---
 
